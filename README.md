@@ -4,6 +4,8 @@
 
 ### Project Overview
 
+---
+
 In this project, I aim to predict human emotions using EEG brainwave data. EEG (Electroencephalography) is a technique used to record electrical activity in the brain. The dataset I'm using contains EEG readings from individuals experiencing different emotions, and my goal is to build a machine learning model that can accurately predict the emotion based on these readings.
 
  ---
